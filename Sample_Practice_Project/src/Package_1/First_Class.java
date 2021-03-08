@@ -7,7 +7,7 @@ public class First_Class {
 		
 		System.out.println(10*20+"mohan");
 		System.out.println("mohan"+10*20);
-        System.out.println("mohan having 5.5 years");
+        System.out.println("mohan having 5.6 years");
 	}
 
 }
